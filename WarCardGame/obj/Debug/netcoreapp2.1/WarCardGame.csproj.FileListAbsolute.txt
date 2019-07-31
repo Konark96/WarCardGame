@@ -1,0 +1,10 @@
+C:\Users\Konark\source\repos\WarCardGame\obj\Debug\netcoreapp2.1\WarCardGame.csproj.CoreCompileInputs.cache
+C:\Users\Konark\source\repos\WarCardGame\obj\Debug\netcoreapp2.1\WarCardGame.AssemblyInfoInputs.cache
+C:\Users\Konark\source\repos\WarCardGame\obj\Debug\netcoreapp2.1\WarCardGame.AssemblyInfo.cs
+C:\Users\Konark\source\repos\WarCardGame\bin\Debug\netcoreapp2.1\WarCardGame.deps.json
+C:\Users\Konark\source\repos\WarCardGame\bin\Debug\netcoreapp2.1\WarCardGame.runtimeconfig.json
+C:\Users\Konark\source\repos\WarCardGame\bin\Debug\netcoreapp2.1\WarCardGame.runtimeconfig.dev.json
+C:\Users\Konark\source\repos\WarCardGame\bin\Debug\netcoreapp2.1\WarCardGame.dll
+C:\Users\Konark\source\repos\WarCardGame\bin\Debug\netcoreapp2.1\WarCardGame.pdb
+C:\Users\Konark\source\repos\WarCardGame\obj\Debug\netcoreapp2.1\WarCardGame.dll
+C:\Users\Konark\source\repos\WarCardGame\obj\Debug\netcoreapp2.1\WarCardGame.pdb
